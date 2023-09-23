@@ -20,3 +20,7 @@ body {
 .card > img {
     height: 250px;
 }
+
+#map { 
+    height: 300px; }
+
